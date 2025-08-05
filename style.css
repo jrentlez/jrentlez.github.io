@@ -1,0 +1,45 @@
+:root {
+	color-scheme: light dark;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: max(0.8vw, 14pt);
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  /* Firefox */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+	display: none;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 0.3em;
+}
+
+h3 {
+	margin-top: 1.5em;
+}
+
+p:has(+ul) {
+	margin-bottom: 0.5em;
+}
+
+p+ul {
+	margin-top: 0em;
+}
+
+p.center {
+	text-align: center;
+}
+
+footer p {
+	color: grey;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+a.footnote {
+	vertical-align: super;
+	font-size: 0.75em;
+}
