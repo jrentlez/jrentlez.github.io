@@ -2,60 +2,53 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1023.9999"
-   height="1023.9999"
-   viewBox="0 0 270.93333 270.93333"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <g
-     id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-dasharray:none;stroke-opacity:1"
-       id="path2"
-       d="M 167.2068,23.842495 A 116.04909,116.04909 0 0 1 250.39549,151.55251 116.04909,116.04909 0 0 1 135.34084,251.51568 116.04909,116.04909 0 0 1 20.50322,151.30327 116.04909,116.04909 0 0 1 103.96863,23.773934" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-       id="path3"
-       d="m 219.93304,-215.16918 a 95.656166,95.656166 0 0 1 -84.61363,50.76136 95.656166,95.656166 0 0 1 -84.456946,-51.02162"
-       transform="scale(1,-1)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-       d="M 136.46638,162.83793 135.44224,32.004309"
-       id="path11" />
-    <g
-       id="g17">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-         d="M 156.69311,165.39828 189.97759,44.806034"
-         id="path13" />
-    </g>
-    <g
-       id="g17-3"
-       transform="matrix(-1,0,0,1,269.69614,0.2738675)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-         d="M 156.69311,165.39828 189.97759,44.806034"
-         id="path13-5" />
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-       d="M 179.36819,172.06432 219.33271,79.866928"
-       id="path15" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-       d="M 89.090379,172.48745 49.125859,80.29005"
-       id="path15-2" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-       d="m 202.26724,186.90518 37.38103,-48.13449"
-       id="path17" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
-       d="M 68.262589,186.90775 30.881559,138.77326"
-       id="path17-6" />
-  </g>
+	width="1023.9999"
+	height="1023.9999"
+	viewBox="0 0 270.93333 270.93333"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:svg="http://www.w3.org/2000/svg">
+	<style>
+		path {
+			stroke: black;
+			fill: none;
+			stroke-dasharry:none;
+			stroke-opacity:1;
+			stroke-width:8;
+		}
+		@media (prefers-color-scheme: dark) {
+			path {
+				stroke: white;
+			}
+		}
+	</style>
+	<path
+		style="stroke-width:12;"
+		d="M 167.2068,23.842495 A 116.04909,116.04909 0 0 1 250.39549,151.55251 116.04909,116.04909 0 0 1 135.34084,251.51568 116.04909,116.04909 0 0 1 20.50322,151.30327 116.04909,116.04909 0 0 1 103.96863,23.773934"
+	/>
+	<path
+		d="m 219.93304,-215.16918 a 95.656166,95.656166 0 0 1 -84.61363,50.76136 95.656166,95.656166 0 0 1 -84.456946,-51.02162"
+		transform="scale(1,-1)"
+	/>
+	<path
+		d="M 136.46638,162.83793 135.44224,32.004309"
+	/>
+	<path
+		d="M 156.69311,165.39828 189.97759,44.806034"
+	/>
+	<path
+		d="M 156.69311,165.39828 189.97759,44.806034"
+		transform="matrix(-1,0,0,1,269.69614,0.2738675)"
+	/>
+	<path
+		d="M 179.36819,172.06432 219.33271,79.866928"
+	/>
+	<path
+		d="M 89.090379,172.48745 49.125859,80.29005"
+	/>
+	<path
+		d="m 202.26724,186.90518 37.38103,-48.13449"
+	/>
+	<path
+		d="M 68.262589,186.90775 30.881559,138.77326"
+	/>
 </svg>
